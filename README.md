@@ -1,5 +1,5 @@
 # SandyGlantz.github.io
 
-Portfolio website
+Portfolio website ... a work in progress
 
 
