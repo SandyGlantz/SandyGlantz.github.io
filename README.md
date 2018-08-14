@@ -17,6 +17,8 @@ Personal website ... a work in progress :-)
 
 :black_square_button: Add a full resume with links/interactive
 
+:black_square_button: AFigure out a download resume button
+
 :black_square_button: Consider doing a resume as a Trello board ... link from web site
 
 :black_square_button: Make outline for portfolio
