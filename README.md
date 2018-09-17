@@ -25,4 +25,6 @@ Personal website ... a work in progress :-)
 
 :black_square_button: Outline next steps after updates to MVP
 
+:black_square_button: Remove SandySandbox.com from Hostgator
+
 :white_check_mark: review site and do stories on needed improvements; MVP
