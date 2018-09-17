@@ -2,6 +2,8 @@
 
 Personal website ... a work in progress :-)
 
+See at www.SandyGlantz.com
+
 
 :black_square_button: Update copy (!!!) ... grad date still pre internship ... C# v.2 not included .... ugh ...
 
